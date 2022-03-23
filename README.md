@@ -1,0 +1,3 @@
+# AliveMonitoringByGAS
+Googleスプレッドシートと連携したGASを用いた死活監視用スクリプト
+ 
